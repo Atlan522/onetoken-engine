@@ -1,4 +1,4 @@
-# py-onetoken-engine
+# onetoken-engine
 
 
 This is a rule based trade engine using onetoken api.
